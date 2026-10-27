@@ -1,0 +1,4 @@
+[submodule "modules/HG-Sub"]
+	path = modules/HG-Sub
+	url = https://github.com/aditiy100outlook/HG-Sub.git
+	branch = main
